@@ -8,6 +8,9 @@
 
 ## Screenshots
 
+![shopifyclonegithubshot](https://user-images.githubusercontent.com/110158807/187016578-4edffd6a-6e18-4a9a-af5a-a22f674906d6.png)
+
+
 
  
  
